@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: auto;
+}
+
+.nav {
+    
+    background-color: #e7f0e8;
+    padding: 0.75rem;
+}
+
+/* .nav .logo {
+    display: flex;
+    justify-content: left;
+} */
+
+.img-logo {
+    width: 50px;
+}

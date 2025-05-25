@@ -1,0 +1,10 @@
+<%- include('partials/header') %>
+
+<h1>Lista de Tarefas</h1>
+
+<% task.forEach(task => { %>
+<li><strong><%= task.titulo %></strong></li>
+<% }) %>
+
+
+<%- include('partials/footer') %>
